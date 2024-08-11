@@ -1,4 +1,4 @@
-# Movie-Watchlist-Reccomendation
+# Movie-Watchlist-Recommendation
 Movie Watchlist Manager is a Python-based command-line tool that allows users to create, manage, and interact with a personalized movie watchlist. The program uses Python's pickle module for efficient data serialization, enabling users to store their movie lists and retrieve them in future sessions.
 
 Features
